@@ -1,2 +1,2 @@
 # TicTacToe
-A terminal based TicTacToe Game with Jaava
+A terminal based TicTacToe Game with Java
